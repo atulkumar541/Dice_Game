@@ -1,8 +1,3 @@
-# Dice Game
+# Dice Game Project
 
-This is a dice game built using React + Vite
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This repository contains the source code for a simple Dice Game project built using React, Vite, and Styled Components. The Dice Game is a fun and interactive web application that simulates rolling dice.
